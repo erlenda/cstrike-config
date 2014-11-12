@@ -1,0 +1,4 @@
+cstrike-config
+==============
+
+cstrike-config
